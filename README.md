@@ -43,7 +43,7 @@ Then to generate a secure `APP_KEY` use the following command:
 ```bash
 php artisan key:generate
 ```
-This is use to authenticate laravel and seed the encryption system it uses.
+This is used to authenticate laravel and seed the encryption system it uses.
 
 ### Step 3 Migrating and Seeding the Database
 To migrate and seed the database, firstly make sure that you have directed your `DB` flagged headers in your `.env` 
