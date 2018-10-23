@@ -1,7 +1,7 @@
 # Quick Notes App
 
 ## Getting Started
-This is a simple Laravel and Bootstrap Framework application, if you are familar with how to set these up then do it your way but if not here's a quick setup guide.
+This is a simple Laravel and Bootstrap Framework application, if you are familar with how to set these up then do it your way but if not here's a quick setup guide. This guide is for my current setup and it should be noted depending on your hosting environment it might be subject to a few changes. If you have any problems feel free to contact me.
 
 ### Step 1 - Installation
 
