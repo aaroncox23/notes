@@ -39,15 +39,12 @@ DB_PASSWORD=
 ```
 Fill in all `DB` sections so they match your hosting environment.
 
-Then to generate a secure `APP_KEY` use the following command:
-```bash
-php artisan key:generate
-```
-This is used to authenticate laravel and seed the encryption system it uses.
+### Step 3 Create the Database
+Created a database called 'notes' to enable the migrations
 
-### Step 3 Migrating and Seeding the Database
-To migrate and seed the database, firstly make sure that you have directed your `DB` flagged headers in your `.env` 
-to an existing database your have already setup.
+### Step 4 Migrating the Database
+To migrate the database, make sure that you have directed your `DB` flagged headers in your `.env` 
+to the database you just created in your hosting enviroment.
 
 Once you have ensure this run the following command to seed and migrate your database.
 ```bash
