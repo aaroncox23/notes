@@ -68,4 +68,4 @@ web server.
 npm run prod
 ```
 This starts Laravel Mix and automatically compiles Javascript and Stylesheets into easy to reference single files 
-which we reference in our webpages.
+which is referenced in the webpages.
